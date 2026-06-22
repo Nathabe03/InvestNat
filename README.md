@@ -1,5 +1,7 @@
 # 💰 NatSafeInvest - Assistente Virtual de Aplicações Financeiras
 
+confira aqui: https://notebooklm.google.com/notebook/b26e5925-9760-4438-b6e1-f9e3a6b03409
+
 O **NatSafeInvest** é um assistente virtual inteligente desenvolvido como o Projeto Final do Bootcamp **Accenture - Python para Análise e Automação de Dados** na plataforma **DIO.me**. 
 
 O objetivo principal do agente é democratizar o acesso à educação financeira e inclusão social, explicando conceitos de investimentos de forma clara e didática para quem deseja ingressar no mercado financeiro e construir um futuro seguro, mesmo começando com pouco valor.
